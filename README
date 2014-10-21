@@ -1,3 +1,12 @@
+My goal:
+
+I have forked this repo in order to attempt to provide the necessary preprocessing
+functions for QR decoding from less perfect images.
+
+----------
+
+Note by the original author:
+
 QR Decoder
 Supports QR code versions 1-40 containing numeric, alphanumeric, or 8-bit
 byte data. BCH and Reed-Solomon error correction not implemented.
